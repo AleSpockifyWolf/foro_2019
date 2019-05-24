@@ -76,12 +76,7 @@
 /* 1.1  - Google fonts
 /* ========================================================================== */
 
-/* font-family: 'Raleway', sans-serif; */
-@import url('http://fonts.googleapis.com/css?family=Raleway:400,100,200,300,500,600,700,800,900');
-/* font-family: 'Roboto', sans-serif; */
-@import url('http://fonts.googleapis.com/css?family=Roboto:400,900italic,900,700italic,700,500italic,500,400italic,300,100,100italic,300italic');
-/* font-family: 'Roboto Slab', serif; */
-@import url('http://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700');
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
 
 /* 1.2 - Preloader
 /* ========================================================================== */
@@ -165,7 +160,7 @@
 /* ========================================================================== */
 
 body {
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Montserrat', sans-serif;;
     font-size: 18px;
     line-height: 1.33;
     background: #fbfbfb;
@@ -1203,7 +1198,7 @@ textarea {
     width: 100%;
 }
 #main-slider .caption-title {
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Montserrat', sans-serif;;
     font-size: 30px;
     line-height: 50px;
     font-weight: 0;
@@ -1238,7 +1233,7 @@ textarea {
 }
 
 #main-slider .caption-subtitle {
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Montserrat', sans-serif;;
     font-size: 32px;
     font-weight: 700;
     color: #ffffff !important;
@@ -1346,7 +1341,7 @@ textarea {
     border-color: transparent;
 }
 .countdown-amount {
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Montserrat', sans-serif;;
     font-size: 65px;
     font-weight: 900;
     color: #ffffff;
@@ -1355,7 +1350,7 @@ textarea {
     margin: 30px 0 0 0;
 }
 .countdown-period {
-    font-family: 'Roboto Slab', serif;
+    font-family: 'Montserrat', sans-serif;;
     font-size: 18px;
     line-height: 20px;
     font-weight: 300;
@@ -1669,7 +1664,7 @@ textarea {
     .tab-content.lv2 .tab-pane {padding: 15px 15px;}
 }
 .schedule-wrapper .nav > li > a {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Montserrat', sans-serif;;
     font-weight: 300;
 }
 .schedule-wrapper .nav > li > a:hover,
@@ -1883,7 +1878,7 @@ footer.post-meta .post-categories {display: block;}
 .timeline .post-title a {color: #dc143c;}
 .timeline .post-title a:hover {color: #000000;}
 .timeline .post-meta {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Montserrat', sans-serif;;
     font-size: 24px;
     font-weight: 300;
     color: #293239;

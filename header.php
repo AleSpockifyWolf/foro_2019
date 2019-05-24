@@ -53,7 +53,7 @@ if($url == '/ponentes.php'){
         <link href="assets/plugins/countdown/jquery.countdown.css" rel="stylesheet">
         
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous">
-
+        <link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
         <link href="assets/css/theme.css<?php echo '?noCache='.$hora?>" rel="stylesheet">
         <link href="assets/css/custom.css" rel="stylesheet">
 
